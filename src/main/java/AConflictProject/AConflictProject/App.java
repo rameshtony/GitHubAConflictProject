@@ -10,5 +10,6 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println( "Learning conflict from Github..this line is added from github!" );
+        System.out.println("This line added from Eclipse local one");
     }
 }
